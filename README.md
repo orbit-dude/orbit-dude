@@ -4,7 +4,7 @@
 My favourite programming language is Haxe
 ```
 
-I code stuff and makeing cool stuffs
+I code stuff and making cool stuffs
 
 <!---
 NotPetrica/NotPetrica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
