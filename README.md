@@ -1,10 +1,10 @@
 # NotPetrica
 
 ```
-My favourite programming language is Haxe
+Som dev that makes bad joke
 ```
 
-I code stuff and making cool stuffs
+you can leave now
 
 <!---
 NotPetrica/NotPetrica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
