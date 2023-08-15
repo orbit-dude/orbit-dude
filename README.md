@@ -1,10 +1,8 @@
-# NotPetrica
+# Orbit-dude
 
 ```
-Som dev that makes bad joke
+I am i programmer and i do cool things
 ```
-
-you can leave now
 
 <!---
 NotPetrica/NotPetrica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
