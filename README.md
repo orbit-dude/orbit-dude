@@ -1,7 +1,7 @@
 # Orbit
 
 ```
-I am i programmer and i do cool things
+
 ```
 
 <!---
